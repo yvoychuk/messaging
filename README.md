@@ -1,7 +1,9 @@
+```
 npm install  
 npm start
+```
 
-build with:  
+built with:  
 - react.js
 - mobx.js  
 - bootstrap.css
